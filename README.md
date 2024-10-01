@@ -20,7 +20,7 @@ This project is a simple Java-based application designed to manage student recor
 <hr>
 <h3>How to Use</h3>
 <ol>
-  <li>Clone the repository:</li> `git clone https://github.com/YashrajMTiwari/StudentManagementSystem` 
-  <li>Compile the Java program:</li> `javac StudentRecordManagement.java`
-  <li>Run the program:</li> `java StudentRecordManagement`
+  <li>Clone the repository: git clone https://github.com/YashrajMTiwari/StudentManagementSystem</li>  
+  <li>Compile the Java program:javac StudentRecordManagement.java</li> 
+  <li>Run the program: java StudentRecordManagement</li> 
 </ol>
